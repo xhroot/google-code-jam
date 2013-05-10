@@ -3,7 +3,7 @@
 
 ### Multithreaded, multi-node solver template in Go
 
-See source for `clusterjam.go.
+See source for `clusterjam.go`.
 
 Blog post: http://www.xhroot.com/blog/2013/05/08/code-jam-concurrency-in-golang
 
